@@ -1,6 +1,6 @@
 # blog-concept
 ## Preview
-![FlaskBlog_Preview](https://user-images.githubusercontent.com/57494763/129818805-ce20d8c6-395e-4e60-9438-b4a0bbede089.JPG)
+![FlaskBlog_Preview](https://user-images.githubusercontent.com/57494763/129819024-81625dad-2a2e-4d5f-860e-da5561dd01ce.JPG)
 ## How to use it
 
 ```bash
